@@ -3,7 +3,7 @@
 
 <img align="rigth" href=""/>
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **Java, Python and C**
 - 🎓 Computer Science undergraduate student in <a href="https://inf.ufg.br/p/30138-ciencia-da-computacao">Federal University of Goiás (UFG) - Goiânia, Brasil </a>
 - 📫 How to reach me **giordanabbucci@gmail.com**
 
